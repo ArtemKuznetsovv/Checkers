@@ -1,4 +1,4 @@
-# Hello and welcome my Checkers game 
+# Hello and welcome to my Checkers game 
 
 *Enjoy the classic checkers game , and see how a computer plays vs himself .* 
 
